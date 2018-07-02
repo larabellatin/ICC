@@ -1,2 +1,2 @@
 # ICC
-Este es un simulador de dados
+Adivina el número
