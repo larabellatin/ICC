@@ -1,0 +1,7 @@
+def dado1():
+    return random.randint(1,7)
+
+def dado2():
+    return random.randint(1,7)
+    
+print(f"Resultado: {dado1()} + {dado2}")
