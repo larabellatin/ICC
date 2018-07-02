@@ -1,2 +1,2 @@
 # ICC
-Esto es una calculadora
+Este es un simulador de dados
